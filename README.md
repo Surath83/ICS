@@ -51,20 +51,6 @@ An efficient, reliable, and fast courier service management system designed for 
 
 ---
 
-## Folder Structure
-
-```plaintext
-indian-courier-service/
-├── assets/       # CSS, JavaScript, and images
-├── database/     # SQL files
-├── includes/     # Reusable PHP components
-├── pages/        # HTML and PHP pages
-├── config.php    # Database configuration
-├── README.md     # Project documentation
-├── index.php     # Entry point
-```
-
----
 
 ## Contributing
 
